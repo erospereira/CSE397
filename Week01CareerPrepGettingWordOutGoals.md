@@ -11,9 +11,9 @@ Look at 3-4 other classmates’ posts and identify 2-4 items that you think are 
 1. Classmate 1: [ Cayleigh Leishman]
    - Novel Item 1: [Cayleigh already does by prioritizing her work over education and experience. However, she could further improve by replacing older projects with more recent ones to showcase her updated skillset, especially in JavaScript and UI design.]
    - Novel Item 2: [Cayleigh could do her projects (like the quilting website) directly to her HTML, CSS, and organizational skills to emphasize her hands-on experience.]
-2. Classmate 2: [Classmate name or pseudonym]
-   - Novel Item 1: [Description of novel approach]
-   - Novel Item 2: [Description of novel approach]
+2. Classmate 2: [Mabel Heiner]
+   - Novel Item 1: [Mabel uses keywords to describe her role and activities in projects, which is an effective way to make her resume stand out to potential employers who often scan for relevant skills.]
+   - Novel Item 2: [She also emphasizes specific programming languages and experiential learning projects, making her resume more practical and skill-oriented, which can demonstrate real-world experience and proficiency.]
 
 ## Job Posting & Evaluation
 Find 3-4 jobs that you would like to have applied for or recommend. Provide links. Why are they good matches? Evaluate them.
@@ -35,7 +35,7 @@ Find 3-4 jobs that you would like to have applied for or recommend. Provide link
 ## SMART Goals
 From the previous task, Job Posting & Evaluation, identify a common thread of improvements. Include a list of classmates that you looked at:
 1. Classmate 1: [Cayleigh Leishman: Update the projects section of her resume with more recent work that showcases her improved JavaScript and UI/UX skills.]
-2. Classmate 2: [Classmate name or pseudonym]
+2. Classmate 2: [Mabel Hainer:gaining practical experience through experiential learning projects aligns with the  full-stack development goal, by continuing to work on personal and collaborative coding projects.]
 
 Based on this research, create two SMART goals (Specific, Measurable, Achievable, Realistic, Time-based):
 1. **SMART Goal from Classmate Feedback**:
@@ -44,4 +44,4 @@ Based on this research, create two SMART goals (Specific, Measurable, Achievable
    - Goal: [List at least three completed courses or certifications.]
 
 ## Check-in and Post Link
-[Provide the link to the checked-in file in your repository]
+[https://github.com/erospereira/CSE397/blob/main/Week01CareerPrepGettingWordOutGoals.md]

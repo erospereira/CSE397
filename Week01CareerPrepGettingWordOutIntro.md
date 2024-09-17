@@ -19,5 +19,7 @@ Key features of my resume:
 - Highlighted my software development projects.
 - Provided links to live projects and GitHub repositories.
 
+**Cover Letter**:[]
+
 **LinkedIn**: [https://www.linkedin.com/in/eros-pereira-a6b3b8238]
 

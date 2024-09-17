@@ -39,9 +39,9 @@ From the previous task, Job Posting & Evaluation, identify a common thread of im
 
 Based on this research, create two SMART goals (Specific, Measurable, Achievable, Realistic, Time-based):
 1. **SMART Goal from Classmate Feedback**:
-   - Goal: [Describe your SMART goal based on what you learned from classmates]
+   - Goal: [Based on feedback from my classmates, my SMART goal is to improve my presentation skills by actively participating in class discussions and giving at least two presentations by the end of the semester.]
 2. **SMART Goal from Job Search**:
-   - Goal: [List at least three completed courses or certifications.]
+   - Goal: [To strengthen my job search, I will complete three certifications—Google Project Management, AWS Certified Solutions Architect, and Scrum Master Certification—by the end of the next quarter. ]
 
 ## Check-in and Post Link
 [https://github.com/erospereira/CSE397/blob/main/Week01CareerPrepGettingWordOutGoals.md]
